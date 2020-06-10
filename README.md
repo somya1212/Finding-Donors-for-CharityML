@@ -39,3 +39,20 @@ education_level: Level of Education (Bachelors, Some-college, 11th, HS-grad, Pro
 **Target Variable**
 
 income: Income Class (<=50K, >50K)
+
+## Run
+In a terminal or command window, navigate to the top-level project directory finding_donors/ (that contains this README) and run one of the following commands:
+
+`ipython notebook finding_donors.ipynb`
+
+or
+
+`jupyter notebook finding_donors.ipynb`
+
+This will open the iPython Notebook software and project file in your browser.
+
+## Contribution
+
+Feel free to contribute or suggest any changes.
+
+
